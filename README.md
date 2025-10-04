@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💫 About Me:
+Computer Science graduate and Research Associate at ApTSi, building cybersecurity SaaS products with Zero Trust principles. Skilled in Java + Spring Boot, with experience in cloud, DevOps, and observability. Passionate about solving real-world problems and delivering impactful software.
 
-<!--
-**DrDrunkenstien-10/DrDrunkenstien-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
 
-Here are some ideas to get you started:
+| Project Name | Description | GitHub Repository | Live Demo |
+|-------------|------------|-----------------|-----------|
+| Minute-Muse | AI-powered tool to generate meeting minutes from recordings | [GitHub](https://github.com/DrDrunkenstien-10/minute-muse) | - |
+| Wealthwise | Modern personal finance manager with React, Spring Boot, PostgreSQL, and Keycloak. Tracks income, expenses, savings, receipts, and recurring transactions with dashboards and charts | [Front-end](https://github.com/DrDrunkenstien-10/wealthwise-ui) / [Back-end](https://github.com/DrDrunkenstien-10/wealthwise) | [Live Demo](https://wealthwise.ajadhav.com/) |
+| Aufgabenliste | Task management web app with Spring Boot, PostgreSQL, and HTML/CSS/JS frontend. Supports create/update/delete/filter of tasks with status and date filters. Fully Dockerized | [GitHub](https://github.com/DrDrunkenstien-10/aufgabenliste) | - |
+| WikiSearch | Simple search engine using an inverted index applied to a collection of Wikipedia articles | [GitHub](https://github.com/DrDrunkenstien-10/wiki-search) | - |
+| Playfair Cipher | Java implementation of the Playfair Cipher encryption algorithm | [GitHub](https://github.com/DrDrunkenstien-10/playfair-cipher) | - |
+| Patient Management System | SaaS product to manage a clinic. Manage doctors, receptionists, book/reschedule/cancel appointments, view dashboards and reports. Work in progress | [Front-end](https://github.com/Prad001/patient-management-ui) / [Back-end](https://github.com/DrDrunkenstien-10/patient-management/tree/feature/patient-appointment) | - |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DrDrunkenstien-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DrDrunkenstien-10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDrunkenstien-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Atharva-Jadhav) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakamalakarjadhav@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0A7EC5?logo=google-chrome&logoColor=white)](https://ajadhav.com/)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
