@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science graduate and Research Associate at ApTSi, building cybersecurity SaaS products with Zero Trust principles. Skilled in Java + Spring Boot, with experience in cloud, DevOps, and observability. Passionate about solving real-world problems and delivering impactful software.
+Computer Science graduate and Research Associate at [ApTSi](https://ap-tech-solns.com/), building cybersecurity SaaS products with Zero Trust principles. Skilled in Java + Spring Boot, with experience in cloud, DevOps, and observability. Passionate about solving real-world problems and delivering impactful software.
 
 ## My Projects
 
