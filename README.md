@@ -14,11 +14,6 @@ Computer Science graduate and Research Associate at [ApTSi](https://ap-tech-soln
 | Playfair Cipher | Java implementation of the Playfair Cipher encryption algorithm. | [GitHub](https://github.com/DrDrunkenstien-10/playfair-cipher) | - |
 | Patient Management System | SaaS product to manage a clinic. Manage doctors, receptionists, book/reschedule/cancel appointments, view dashboards and reports. Work in progress. | [Front-end](https://github.com/Prad001/patient-management-ui) / [Back-end](https://github.com/DrDrunkenstien-10/patient-management/tree/feature/patient-appointment) | - |
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DrDrunkenstien-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DrDrunkenstien-10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DrDrunkenstien-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Atharva-Jadhav) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakamalakarjadhav@gmail.com)
