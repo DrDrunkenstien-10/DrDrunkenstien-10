@@ -14,6 +14,14 @@ Computer Science graduate and Research Associate at [ApTSi](https://ap-tech-soln
 | Playfair Cipher | Java implementation of the Playfair Cipher encryption algorithm. | [GitHub](https://github.com/DrDrunkenstien-10/playfair-cipher) | - |
 | Patient Management System | SaaS product to manage a clinic. Manage doctors, receptionists, book/reschedule/cancel appointments, view dashboards and reports. Work in progress. | [Front-end](https://github.com/Prad001/patient-management-ui) / [Back-end](https://github.com/DrDrunkenstien-10/patient-management/tree/feature/patient-appointment) | - |
 
+## 🧪 Explorations & Experiments
+
+| Project Name | Description | GitHub Repository | Live Demo |
+|-------------|------------|-----------------|-----------|
+| One Time Pad (Java) | Simple implementation of the One Time Pad encryption algorithm in Java demonstrating symmetric key encryption with theoretically perfect secrecy when used correctly. | [GitHub](https://gist.github.com/DrDrunkenstien-10/7c190fe4db247d48e1f4dda98b7574d1) | - |
+| Brainfuck Interpreter (Java) | A minimal Brainfuck interpreter written in Java that parses and executes Brainfuck programs using a tape-based memory model. | [GitHub](https://gist.github.com/DrDrunkenstien-10/abb43ce6cdd0320282a3d72314d8c01a) | - |
+| Caesar Cipher (Brainfuck) | A simple Brainfuck program that implements the Caesar Cipher encryption (works for 3 characters). | [GitHub](https://gist.github.com/DrDrunkenstien-10/1735b8ace9547c623457c4b05d7c673d) | - |
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Atharva-Jadhav) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvakamalakarjadhav@gmail.com)
