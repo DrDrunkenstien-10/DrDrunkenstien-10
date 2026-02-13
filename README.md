@@ -14,7 +14,7 @@ Computer Science graduate and Research Associate at [ApTSi](https://ap-tech-soln
 | Playfair Cipher | Java implementation of the Playfair Cipher encryption algorithm. | [GitHub](https://github.com/DrDrunkenstien-10/playfair-cipher) | - |
 | Patient Management System | SaaS product to manage a clinic. Manage doctors, receptionists, book/reschedule/cancel appointments, view dashboards and reports. Work in progress. | [Front-end](https://github.com/Prad001/patient-management-ui) / [Back-end](https://github.com/DrDrunkenstien-10/patient-management/tree/feature/patient-appointment) | - |
 
-## 🧪 Explorations & Experiments
+## Explorations & Experiments
 
 | Project Name | Description | GitHub Repository | Live Demo |
 |-------------|------------|-----------------|-----------|
