@@ -5,7 +5,7 @@ Computer Science graduate and Research Associate at [ApTSi](https://ap-tech-soln
 
 | Project Name | Description | GitHub Repository | Live Demo |
 |-------------|------------|-----------------|-----------|
-| Deplens | A CLI tool that scans project dependencies for licenses, vulnerabilities (CVEs), and version health. | [GitHub](https://github.com/DrDrunkenstien-10/deplen) | - |
+| Deplens | A CLI tool that scans project dependencies for licenses, vulnerabilities (CVEs), and version health. | [GitHub](https://github.com/DrDrunkenstien-10/deplens) | - |
 | Minute-Muse | MinuteMuse is an AI-powered tool for automating the generation of meeting minutes and action items from meeting transcriptions. By leveraging advanced audio processing and language models, MinuteMuse simplifies post-meeting workflows and improves productivity. | [GitHub](https://github.com/DrDrunkenstien-10/minute-muse) | - |
 | Wealthwise | Wealthwise is a modern personal finance manager built with React, Spring Boot, PostgreSQL, and Keycloak. It helps you track income, expenses, savings, receipts, and recurring transactions with a clean dashboard and charts. | [Front-end](https://github.com/DrDrunkenstien-10/wealthwise-ui) / [Back-end](https://github.com/DrDrunkenstien-10/wealthwise) | [Live Demo](https://wealthwise.ajadhav.com/) |
 | Portfolio | A personal portfolio website built with Astro. | [Front-end](https://github.com/DrDrunkenstien-10/portfolio-website) / [Back-end](https://github.com/DrDrunkenstien-10/portfolio-website-backend) | [Live Demo](https://ajadhav.com/) |
